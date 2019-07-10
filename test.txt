@@ -1,2 +1,9 @@
 This is git-study test.
 Bug01分支：修复master上的bug
+this is windows diff.
+This is branch dev.
+mac:第二次修改
+windows:第二次修改
+-------------------
+在dev分支上工作是，master分支有bug代解决
+-------------------
